@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="rozay_intro">Hello World! My name is Rick Ross aka Rozay aka Renzel aka the biggest boss. I like eating wingstop and drinking belaire.</string>
+    <string name="button_text">Say hello!</string>
+</resources>
